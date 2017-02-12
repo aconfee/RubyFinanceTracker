@@ -29,4 +29,4 @@ production:
   <<: *default
   database: financetracker_prod_db
   username: adam
-  password: password
+  password: Elcoqui18
